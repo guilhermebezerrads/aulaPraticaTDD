@@ -4,5 +4,6 @@ class Main {
     teste.testMultiplication();
     teste.testFrancMultiplication();
     teste.testEquality();
+    teste.testCurrency();
   }
 }
